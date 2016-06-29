@@ -2,7 +2,7 @@ console.log("Hello World");
 
 
 var myName="Chase";
-var lottoWinners = ["Brandon", "Lauren", "Chase"];
+var lottoWinners = ["Brandon", "Lauren", "Chase", "Tommy", "Bri", "Brad", "Matt", "Mackenzie"];
 
 for (var i=0; i > lottoWinners.length; i++) {
     console.log(lottoWinners);
